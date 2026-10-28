@@ -1,0 +1,8 @@
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/BookNest.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/test_database.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/BookNest_autogen_timestamp_deps.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/BookNest_autogen.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/test_database_autogen_timestamp_deps.dir
+C:/Users/User/Downloads/cu projects/BookNest/build/CMakeFiles/test_database_autogen.dir
